@@ -1,0 +1,20 @@
+{
+  "name": "Nwamini Emmanuel",
+  "bio": "Biologist turned **Software Developer**. Listen to Podcast, Play games, Listen to music",
+"links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/onyedicach",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/emmanuel-godwin-a21081215/",
+      "icon": "FaLinkedin"
+    }
+    {
+      "name": "Github",
+      "url": "https://github.com/Youngemmy5956",
+      "icon": "FaGithub"
+    }
+  ]
